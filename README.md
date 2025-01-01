@@ -2,38 +2,7 @@
 This project contains solutions to three different problems implemented in Golang. Each problem is structured as a separate module, making it modular and easy to maintain. 🛠️
 
 ## Project Structure 📂
-FILLLABSQUESTIONS/
-│
-
-├── go.mod              # Go module definition
-
-├── main.go             # Main file to run all questions
-
-│
-
-└── questions/          # Contains solutions for all questions
-  
-    ├── first_question/
-   
-    │   ├── first.go        # Solution for Question 1
-   
-    │   └── first_test.go   # Unit tests for Question 1
-   
-    │
-   
-    ├── second_question/
-   
-    │   ├── second.go       # Solution for Question 2
-   
-    │   └── second_test.go  # Unit tests for Question 2
-   
-    │
-  
-    └── third_question/
-    
-        ├── third.go        # Solution for Question 3
-      
-        └── third_test.go   # Unit tests for Question 3
+   FILLLABSQUESTIONS/ │ ├── go.mod # Go module definition ├── main.go # Main file to run all questions │ └── questions/ # Contains solutions for all questions ├── first_question/ │ ├── first.go # Solution for Question 1 │ └── first_test.go # Unit tests for Question 1 │ ├── second_question/ │ ├── second.go # Solution for Question 2 │ └── second_test.go # Unit tests for Question 2 │ └── third_question/ ├── third.go # Solution for Question 3 └── third_test.go # Unit tests for Question 3
 
 ## Questions Explanation 💡
 
